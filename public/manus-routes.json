@@ -1,0 +1,12 @@
+{
+  "routes": [
+    { "path": "/", "title": "Sign in / Overview" },
+    { "path": "/#overview", "title": "Overview" },
+    { "path": "/#mission", "title": "Mission Control" },
+    { "path": "/#camera", "title": "Live Camera" },
+    { "path": "/#analysis", "title": "Mission Analysis" },
+    { "path": "/#screenshots", "title": "Saved Screenshots" },
+    { "path": "/#robot", "title": "Robot Information" },
+    { "path": "/#settings", "title": "Settings" }
+  ]
+}
